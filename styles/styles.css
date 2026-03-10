@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+.subtitle {
+    font-size: 20px;
+    color: #94a3b8;
+}
+
+.card {
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 12px;
+    margin-top: 30px;
+}
+
+.bonus {
+    font-size: 22px;
+    margin: 10px 0;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 18px 35px;
+    background: #00c853;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background: #00a843;
+}
+
+.steps {
+    margin-top: 40px;
+    text-align: left;
+}
+
+.step {
+    margin: 15px 0;
+    font-size: 18px;
+}
+
+footer {
+    margin-top: 60px;
+    color: #64748b;
+}
